@@ -16,7 +16,7 @@
 
 #resume-section("教育经历")
 #resume-education(
-  university: "北京理工大学",
+  university: "北京邮电大学",
   degree: "学术型硕士研究生",
   school: "网络空间安全，网络空间安全学院",
   start: "2021-09",
